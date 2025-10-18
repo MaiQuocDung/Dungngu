@@ -1,0 +1,47 @@
+Thông tin cấu hình:
+Terminal ID / Mã Website (vnp_TmnCode): WTL0XMRT
+
+Secret Key / Chuỗi bí mật tạo checksum (vnp_HashSecret): Y0XCNOCNR895HJZKSLGD0OCZ93YQ5V2T
+
+Url thanh toán môi trường TEST (vnp_Url): https://sandbox.vnpayment.vn/paymentv2/vpcpay.html
+
+Thông tin truy cập Merchant Admin để quản lý giao dịch:
+Địa chỉ: https://sandbox.vnpayment.vn/merchantv2/
+
+Tên đăng nhập: thanhtong2407@gmail.com
+
+Mật khẩu: (Là mật khẩu nhập tại giao diện đăng ký Merchant môi trường TEST)
+
+Kiểm tra (test case) – IPN URL:
+Kịch bản test (SIT): https://sandbox.vnpayment.vn/vnpaygw-sit-testing/user/login
+
+Tên đăng nhập: thanhtong2407@gmail.com
+
+Mật khẩu: (Là mật khẩu nhập tại giao diện đăng ký Merchant môi trường TEST)
+
+Tài liệu:
+Tài liệu hướng dẫn tích hợp: https://sandbox.vnpayment.vn/apis/docs/thanh-toan-pay/pay.html
+
+Code demo tích hợp: https://sandbox.vnpayment.vn/apis/vnpay-demo/code-demo-tích-hợp
+
+Thẻ test:
+Ngân hàng	NCB
+Số thẻ	9704198526191432198
+Tên chủ thẻ	NGUYEN VAN A
+Ngày phát hành	07/15
+Mật khẩu OTP	123456
+
+#Thông tin nội dung chuyển khoảng
+https://localhost/TestVNPay/test.php?
+vnp_Amount=10000000
+&vnp_BankCode=NCB
+&vnp_BankTranNo=VNP14523813
+&vnp_CardType=ATM
+&vnp_OrderInfo=Thanh+to%C3%A1n+h%C3%B3a+%C4%91%C6%A1n
+&vnp_PayDate=20240721203940
+&vnp_ResponseCode=00
+&vnp_TmnCode=WTL0XMRT
+&vnp_TransactionNo=14523813
+&vnp_TransactionStatus=00
+&vnp_TxnRef=123456
+&vnp_SecureHash=2194cc435278410ad41a75e1ece6a454ebcbaf3d998ff7a9d73ccd0bb67fa888af930e6a01d196a8ed6b9d48b39274c6e943329e42c9b3a5456ffb5c5aca0414

@@ -1,0 +1,74 @@
+/*mobile and tablet*/
+@media (max-width: 1120px) {
+    .header-mobile {
+        display: flex !important;
+    }
+
+    .header {
+        display: none;
+    }
+
+    .navigation-bar {
+        display: none !important;
+    }
+
+    .header__sort-bar {
+        display: flex !important;
+    }
+
+    .home-filter {
+        display: none !important;
+    }
+
+    
+
+}
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .nav__mb-close {
+        right: 45px !important;
+    }
+
+
+}
+
+/* mobile */
+@media (max-width: 739px) {
+    .nav__mb-close {
+        right: 25px !important;
+    }
+    .footer {
+        padding: 0 30px;
+    }
+    .footer__bottom {
+        margin-top: 10px;
+    }
+
+    /*sp chi tiet*/
+    .product-detail-breadcrumb {
+        display: none !important;
+    }
+
+    .prodoct-detail-info {
+        display: flex;
+        flex-wrap: wrap !important;
+    }
+
+    #img1 {
+        display: block !important;
+    }
+
+    .product-detail-select {
+        display: none !important;
+    }
+
+    .grid__column-left {
+        width: 100% !important;
+        padding: 10px !important;
+    }
+
+    .grid__column-right {
+        width: 100% !important;
+    }
+}

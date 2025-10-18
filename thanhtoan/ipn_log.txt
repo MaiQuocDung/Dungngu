@@ -1,0 +1,59 @@
+Array
+(
+    [vnp_Amount] => 10000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14533148
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toán hóa đơn
+    [vnp_PayDate] => 20240726172237
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => WTL0XMRT
+    [vnp_TransactionNo] => 14533148
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 123456e
+)
+Invalid signature: Array
+(
+)
+Array
+(
+    [vnp_Amount] => 10000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14533148
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toán hóa đơn
+    [vnp_PayDate] => 20240726172237
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => WTL0XMRT
+    [vnp_TransactionNo] => 14533148
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 123456e
+)
+Array
+(
+    [vnp_Amount] => 510000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14533161
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toán hóa đơn
+    [vnp_PayDate] => 20240726172713
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => WTL0XMRT
+    [vnp_TransactionNo] => 14533161
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 123456dd
+)
+Array
+(
+    [vnp_Amount] => 510000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14533161
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toán hóa đơn
+    [vnp_PayDate] => 20240726172713
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => WTL0XMRT
+    [vnp_TransactionNo] => 14533161
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 123456dd
+)
